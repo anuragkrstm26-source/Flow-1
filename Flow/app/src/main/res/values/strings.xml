@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flow</string>
+    <string name="accessibility_service_description">Flow uses accessibility only to notice when the soft keyboard is visible, identify the focused editable field, and insert the generated prompt at the cursor. It does not perform unrelated actions or retain field contents.</string>
+</resources>
